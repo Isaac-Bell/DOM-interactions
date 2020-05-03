@@ -56,11 +56,11 @@ div.blue:hover {
 }
 
 div.green {
-  background-color: darkseagreen;
+  background-color: lightgreen;
 }
 
 div.green:hover {
-  background-color: lightgreen;
+  background-color: darkseagreen;
 }
 
 /* Sometimes display: none would be appropriate here. However, because we want the dots
